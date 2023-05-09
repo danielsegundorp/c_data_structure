@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1681512349 source:c:\codigos\codeblocks\estrutura de dados\calculo_nfatorial\main.c
+	<stdio.h>
+	<stdlib.h>
+

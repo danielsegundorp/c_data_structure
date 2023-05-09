@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1682230206 source:c:\codigos\codeblocks\estrutura de dados\atividade_aula3\main.c
+	<stdio.h>
+	<stdlib.h>
+

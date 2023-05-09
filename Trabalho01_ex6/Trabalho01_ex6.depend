@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682128967 source:c:\codigos\codeblocks\estrutura de dados\trabalho01_ex6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

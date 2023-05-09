@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1681514100 source:c:\codigos\codeblocks\estrutura de dados\somatorio_100_500\main.c
+	<stdio.h>
+	<stdlib.h>
+

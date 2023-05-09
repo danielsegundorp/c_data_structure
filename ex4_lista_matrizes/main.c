@@ -1,0 +1,28 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int i, j, pares = 0;
+    int mat[3][3];
+
+    for(i = 0; i < 3; i++){
+        for(j = 0; j < 3; j++){
+            printf("Digite um numero inteiro para a posicao [%d][%d] da matriz: ", (i+1), (j+1));
+            scanf("%d", &mat[i][j]);
+            if(mat[i][j] % 2 == 0){
+                pares++;
+            }
+        }
+    }
+
+    for(i = 0; i < 3; i++){
+        for(j = 0; j < 3; j++){
+            printf("%d\t", mat[i][j]);
+        }
+        printf("\n");
+    }
+    printf("\nQte pares = %d\n", pares);
+
+    return 0;
+}
